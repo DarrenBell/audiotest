@@ -1,32 +1,32 @@
 body {
-	/* Safari 5.1+, Chrome 10+ */
-	background: -webkit-radial-gradient(circle, #1a82f7, #2F2727);
-	}
+    /* Safari 5.1+, Chrome 10+ */
+    background: -webkit-radial-gradient(circle, #1a82f7, #2F2727);
+    }
 
 #wrapper {
-	width: 960px;
-	height: auto;
-	margin: 0 auto;
-	background: #000;
-	border: 2px solid #2e2e2e;
-	border-radius: 25px;
-	-moz-border-radius: 25px; /* Old Firefox */
-	}
-	
+    width: 960px;
+    height: auto;
+    margin: 0 auto;
+    background: #000;
+    border: 2px solid #2e2e2e;
+    -moz-border-radius: 25px; /* Old Firefox */
+    border-radius: 25px;
+    }
+
 strong {
-	color:  #7519ff;
-	text-shadow: 1px 1px 1px #330080;
-	}
-	
+    color:  #7519ff;
+    text-shadow: 1px 1px 1px #330080;
+    }
+
 audio {
-	color: #ddd;
-	}
-	
+    color: #ddd;
+    }
+
 p, ol {
-	color: #fff;
-	}
-	
+    color: #fff;
+    }
+
 p, audio {
-	padding: 5px;
-	margin-left: 10px;
-	}
+    padding: 5px;
+    margin-left: 10px;
+    }
